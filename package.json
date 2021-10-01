@@ -1,0 +1,31 @@
+{
+  "name": "smart_contracts",
+  "version": "1.0.0",
+  "description": " Contratos Aspenx",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx nodemon main.js",
+    "ganache": "npx ganache-cli --wallet.seed 256897587",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AspenX-Community/smart_contracts.git"
+  },
+  "keywords": [
+    "ganache",
+    "etherium",
+    "solity",
+    "smartcontrats"
+  ],
+  "author": "GILBERTO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AspenX-Community/smart_contracts/issues"
+  },
+  "homepage": "https://github.com/AspenX-Community/smart_contracts#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "nodemon": "^2.0.13"
+  }
+}
