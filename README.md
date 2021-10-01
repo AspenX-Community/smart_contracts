@@ -3,4 +3,6 @@
 
 # Contratos inteligentes BlockChain
 
+![Tela inicial](./city-green.jpg)
+
  Os contratos inteligentes é o ambiente de tests.
